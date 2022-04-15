@@ -1,6 +1,6 @@
 # Seasons App
 
-A simple Geolocation API implementation that gets your latitude data from your location and decides based on the current month a winter theme or a summer theme.
+A simple Geolocation API implementation that gets your latitude data from your location and decides based on the current month a winter theme or summer theme on  your browsers screen.
 
 # Winter Theme
 ![afbeelding](https://user-images.githubusercontent.com/34915099/163505133-c06f20ac-3617-4571-a68c-305525afddc1.png)
